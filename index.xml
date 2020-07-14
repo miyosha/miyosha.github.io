@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MIYOSHA — Mindful Youth Shaping</title>
-    <link>miyosha.github.io/</link>
+    <link>/</link>
     <description>Recent content on MIYOSHA — Mindful Youth Shaping</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="miyosha.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Us</title>
-      <link>miyosha.github.io/about-us/</link>
+      <link>/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>miyosha.github.io/about-us/</guid>
+      <guid>/about-us/</guid>
       <description>Vision and Mission We envision our youth as motivated, skilled, and responsible young people who are ready to build their country, Tanzania.
 We seek to enhance their social, cultural, and economic situations through engagement in sports, recreational and artistic activities, life skills education, and income generating activities.
 Objectives  Register and group youth and confer them ownership of their organization. Offer sports and artistic activities, playing facilities, and equipment for youth.</description>
@@ -23,10 +23,10 @@ Objectives  Register and group youth and confer them ownership of their organiza
     
     <item>
       <title>Imprint</title>
-      <link>miyosha.github.io/imprint/</link>
+      <link>/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>miyosha.github.io/imprint/</guid>
+      <guid>/imprint/</guid>
       <description>Information Pursuant to § 5 TMG for Germany:
 Mindful Youth Shaping (MIYOSHA)
 Matembele II Street, Kivule Ward, Ilala
@@ -40,10 +40,10 @@ Represented by Paul Gogo, Chairman</description>
     
     <item>
       <title>Income Generation</title>
-      <link>miyosha.github.io/income-generation/</link>
+      <link>/income-generation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>miyosha.github.io/income-generation/</guid>
+      <guid>/income-generation/</guid>
       <description>Vocational Training With the generous support of the German Internationaler Club der Schlitzohren e.V., MIYOSHA has been offering sewing machine training courses to youth in Kivule Ward, Ilala Municipal Council, in Dar es Salaam since July 2015.
 By December 2019, 173 youth had already benefitted from our courses, which typically run six days per week for six months.
 Course graduates receive continued support from MIYOSHA and the local community, helping them make the most of their newly acquired skills.</description>
@@ -51,10 +51,10 @@ Course graduates receive continued support from MIYOSHA and the local community,
     
     <item>
       <title>Life Skills</title>
-      <link>miyosha.github.io/life-skills/</link>
+      <link>/life-skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>miyosha.github.io/life-skills/</guid>
+      <guid>/life-skills/</guid>
       <description>Health Counseling Our health education efforts include the following activities:
   Group Counseling Sessions
 Here, we educate our youth on health issues and discourage them from engaging in risky behaviour, i.e., alcohol and drug abuse or unsafe sex.
@@ -66,10 +66,10 @@ Our sports and arts offerings form an integral part of our health education as t
     
     <item>
       <title>Sports and Arts</title>
-      <link>miyosha.github.io/sports-arts/</link>
+      <link>/sports-arts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>miyosha.github.io/sports-arts/</guid>
+      <guid>/sports-arts/</guid>
       <description>Regular Sports Offerings In our sports teams, MIYOSHA youth train their collaborative and competitive spirits.
 We currently offer soccer (football), basketball, and netball.
 Our teams are grouped into three different age categories: Kids, Juniors, and Seniors.
